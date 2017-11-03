@@ -1,0 +1,10 @@
+{
+  "name": "@williamkmiller/ci-test",
+  "version": "0.0.0",
+  "description": "CI test",
+  "license": "MIT",
+  "repository": "williamkmiller/ci-test",
+  "scripts": {
+    "test": "echo 'Test'"
+  }
+}
